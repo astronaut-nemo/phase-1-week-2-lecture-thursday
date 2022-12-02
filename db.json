@@ -1,0 +1,15 @@
+{
+    "users":[
+        {
+            "username": "Tomashi",
+            "email": "sam@moringa.com",
+            "password": "123"
+        }
+    ],
+
+    "profile": {
+        "username": "Tomashi",
+        "email": "sam@moringa.com",
+        "password": "123"
+    }
+}
